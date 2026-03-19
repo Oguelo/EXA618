@@ -32,6 +32,5 @@ with open('EstabelecimentoEncontradosSax.csv', mode='r', encoding='utf-8') as ar
 
 jsonStr = json.dumps(geojson, indent=4, ensure_ascii=False)
 
-# 1) Salvar o arquivo GeoJSON (para você anexar na atividade)
 with open('atividade4_geo.json', 'w', encoding='utf-8') as f:
     f.write(jsonStr)
