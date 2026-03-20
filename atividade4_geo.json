@@ -1,0 +1,6680 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4505445,
+                    -12.9978883
+                ]
+            },
+            "properties": {
+                "nome": "Igreja Seicho No Ie do Brasil",
+                "tipo": "place_of_worship"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.473233,
+                    -12.9895764
+                ]
+            },
+            "properties": {
+                "nome": "Caixa Econômica Federal",
+                "tipo": "bank"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.47261,
+                    -12.9889579
+                ]
+            },
+            "properties": {
+                "nome": "INOOA",
+                "tipo": "clinic"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4674119,
+                    -12.9883381
+                ]
+            },
+            "properties": {
+                "nome": "Hiperposto",
+                "tipo": "fuel"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4577925,
+                    -13.0054355
+                ]
+            },
+            "properties": {
+                "nome": "Restau Vila",
+                "tipo": "restaurant"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4538681,
+                    -13.0046742
+                ]
+            },
+            "properties": {
+                "nome": "Shell",
+                "tipo": "fuel"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4657388,
+                    -13.0067136
+                ]
+            },
+            "properties": {
+                "nome": "Manhattan",
+                "tipo": "restaurant"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4639336,
+                    -12.9944726
+                ]
+            },
+            "properties": {
+                "nome": "Lanchonete Tudo de Bom",
+                "tipo": "fast_food"
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4645914,
+                    -12.9947462
+                ]
+            },
+            "properties": {
+                "nome": "BTQ 161",
+                "tipo": "bar"
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.464265,
+                    -12.9966767
+                ]
+            },
+            "properties": {
+                "nome": "Bradesco",
+                "tipo": "atm"
+            },
+            "id": 9
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4652886,
+                    -12.9962301
+                ]
+            },
+            "properties": {
+                "nome": "Itaú",
+                "tipo": "atm"
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4641641,
+                    -13.0083381
+                ]
+            },
+            "properties": {
+                "nome": "Pague Menos",
+                "tipo": "pharmacy"
+            },
+            "id": 11
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4627558,
+                    -13.0073315
+                ]
+            },
+            "properties": {
+                "nome": "Caixa Econômica Federal",
+                "tipo": "bank"
+            },
+            "id": 12
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4624855,
+                    -13.0076294
+                ]
+            },
+            "properties": {
+                "nome": "Banco Santander",
+                "tipo": "bank"
+            },
+            "id": 13
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4676129,
+                    -12.9862798
+                ]
+            },
+            "properties": {
+                "nome": "Santander",
+                "tipo": "bank"
+            },
+            "id": 14
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4588616,
+                    -13.0039917
+                ]
+            },
+            "properties": {
+                "nome": "Sorvete Amaralina",
+                "tipo": "ice_cream"
+            },
+            "id": 15
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4626414,
+                    -12.9932267
+                ]
+            },
+            "properties": {
+                "nome": "O rei da coxinha",
+                "tipo": "fast_food"
+            },
+            "id": 16
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4602171,
+                    -12.9937589
+                ]
+            },
+            "properties": {
+                "nome": "Tortarelli",
+                "tipo": "cafe"
+            },
+            "id": 17
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4601514,
+                    -12.9938739
+                ]
+            },
+            "properties": {
+                "nome": "Igreja Batista Regular da Pituba",
+                "tipo": "place_of_worship"
+            },
+            "id": 18
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.459707,
+                    -12.994457
+                ]
+            },
+            "properties": {
+                "nome": "Guarda Municipal",
+                "tipo": "police"
+            },
+            "id": 19
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4606574,
+                    -12.9913793
+                ]
+            },
+            "properties": {
+                "nome": "Boteco do Caranguejo",
+                "tipo": "bar"
+            },
+            "id": 20
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4606339,
+                    -12.991546
+                ]
+            },
+            "properties": {
+                "nome": "Bar Preto",
+                "tipo": "pub"
+            },
+            "id": 21
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4667036,
+                    -12.9877297
+                ]
+            },
+            "properties": {
+                "nome": "Santander",
+                "tipo": "bank"
+            },
+            "id": 22
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4712936,
+                    -12.9956364
+                ]
+            },
+            "properties": {
+                "nome": "Cine Daten",
+                "tipo": "cinema"
+            },
+            "id": 23
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4597096,
+                    -12.9990928
+                ]
+            },
+            "properties": {
+                "nome": "Cremonini",
+                "tipo": "restaurant"
+            },
+            "id": 24
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.463605,
+                    -12.9972799
+                ]
+            },
+            "properties": {
+                "nome": "Estação BRT - Itaigara",
+                "tipo": "bicycle_rental"
+            },
+            "id": 25
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4633117,
+                    -12.9991234
+                ]
+            },
+            "properties": {
+                "nome": "Spaggeti's Lilas",
+                "tipo": "restaurant"
+            },
+            "id": 26
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4572708,
+                    -13.0049181
+                ]
+            },
+            "properties": {
+                "nome": "Itaú",
+                "tipo": "bank"
+            },
+            "id": 27
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4570483,
+                    -13.0048534
+                ]
+            },
+            "properties": {
+                "nome": "Teatro Jorge Amado",
+                "tipo": "theatre"
+            },
+            "id": 28
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4564431,
+                    -13.0051638
+                ]
+            },
+            "properties": {
+                "nome": "Igreja de Nossa Senhora da Luz",
+                "tipo": "place_of_worship"
+            },
+            "id": 29
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4591124,
+                    -13.0061983
+                ]
+            },
+            "properties": {
+                "nome": "Bella Gourmet",
+                "tipo": "restaurant"
+            },
+            "id": 30
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4597403,
+                    -13.0063628
+                ]
+            },
+            "properties": {
+                "nome": "Gergelim",
+                "tipo": "restaurant"
+            },
+            "id": 31
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4517522,
+                    -12.9975205
+                ]
+            },
+            "properties": {
+                "nome": "Brisa Restaurante Natural",
+                "tipo": "restaurant"
+            },
+            "id": 32
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4624884,
+                    -13.0055116
+                ]
+            },
+            "properties": {
+                "nome": "Faculdade Ruy Barbosa",
+                "tipo": "bicycle_parking"
+            },
+            "id": 33
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4639138,
+                    -12.9964387
+                ]
+            },
+            "properties": {
+                "nome": "Shopping Itaigara",
+                "tipo": "bicycle_parking"
+            },
+            "id": 34
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.465974,
+                    -12.9977923
+                ]
+            },
+            "properties": {
+                "nome": "Igreja Batista Caminho das Árvores",
+                "tipo": "place_of_worship"
+            },
+            "id": 35
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4638047,
+                    -13.0001817
+                ]
+            },
+            "properties": {
+                "nome": "Arca de Noé",
+                "tipo": "school"
+            },
+            "id": 36
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4602934,
+                    -13.0011062
+                ]
+            },
+            "properties": {
+                "nome": "Escola Lápis de Cor",
+                "tipo": "school"
+            },
+            "id": 37
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4603309,
+                    -13.0002333
+                ]
+            },
+            "properties": {
+                "nome": "Escola Colmeia",
+                "tipo": "school"
+            },
+            "id": 38
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4627909,
+                    -13.0017029
+                ]
+            },
+            "properties": {
+                "nome": "Escola Brincando e Construindo",
+                "tipo": "school"
+            },
+            "id": 39
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4634496,
+                    -12.999047
+                ]
+            },
+            "properties": {
+                "nome": "Escola Alegre Mundo",
+                "tipo": "school"
+            },
+            "id": 40
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4538436,
+                    -12.9876204
+                ]
+            },
+            "properties": {
+                "nome": "Armazem Pizzaria",
+                "tipo": "restaurant"
+            },
+            "id": 41
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4537663,
+                    -12.9877432
+                ]
+            },
+            "properties": {
+                "nome": "Subway",
+                "tipo": "fast_food"
+            },
+            "id": 42
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.454276,
+                    -12.989972
+                ]
+            },
+            "properties": {
+                "nome": "Drogaria São Paulo",
+                "tipo": "pharmacy"
+            },
+            "id": 43
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4606492,
+                    -13.0010495
+                ]
+            },
+            "properties": {
+                "nome": "Empório do Pão",
+                "tipo": "restaurant"
+            },
+            "id": 44
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.460816,
+                    -13.0014237
+                ]
+            },
+            "properties": {
+                "nome": "Academia Budokan",
+                "tipo": "dojo"
+            },
+            "id": 45
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4512142,
+                    -12.9928137
+                ]
+            },
+            "properties": {
+                "nome": "On Top Produtora",
+                "tipo": "studio"
+            },
+            "id": 46
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4511736,
+                    -12.9926425
+                ]
+            },
+            "properties": {
+                "nome": "Tijela Restaurante e Lanchonete",
+                "tipo": "restaurant"
+            },
+            "id": 47
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4517684,
+                    -13.0027754
+                ]
+            },
+            "properties": {
+                "nome": "Jardim dos Namorados",
+                "tipo": "bicycle_rental"
+            },
+            "id": 48
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4552412,
+                    -13.0027702
+                ]
+            },
+            "properties": {
+                "nome": "Praça Marconi",
+                "tipo": "bicycle_rental"
+            },
+            "id": 49
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4526624,
+                    -13.0032935
+                ]
+            },
+            "properties": {
+                "nome": "Habib's",
+                "tipo": "fast_food"
+            },
+            "id": 50
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.454547,
+                    -13.0043783
+                ]
+            },
+            "properties": {
+                "nome": "Drogasil",
+                "tipo": "pharmacy"
+            },
+            "id": 51
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4604049,
+                    -12.999056
+                ]
+            },
+            "properties": {
+                "nome": "Domino's",
+                "tipo": "fast_food"
+            },
+            "id": 52
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4547313,
+                    -13.0047412
+                ]
+            },
+            "properties": {
+                "nome": "Análise Vestibular",
+                "tipo": "school"
+            },
+            "id": 53
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4559308,
+                    -13.0052579
+                ]
+            },
+            "properties": {
+                "nome": "Gibão de Couro",
+                "tipo": "restaurant"
+            },
+            "id": 54
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.453699,
+                    -13.0041311
+                ]
+            },
+            "properties": {
+                "nome": "Buena Vida",
+                "tipo": "restaurant"
+            },
+            "id": 55
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4544591,
+                    -13.0046821
+                ]
+            },
+            "properties": {
+                "nome": "Banco do Nordeste",
+                "tipo": "bank"
+            },
+            "id": 56
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.463851,
+                    -13.0009601
+                ]
+            },
+            "properties": {
+                "nome": "Deli&Cake",
+                "tipo": "restaurant"
+            },
+            "id": 57
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4632369,
+                    -13.0032531
+                ]
+            },
+            "properties": {
+                "nome": "Subway",
+                "tipo": "fast_food"
+            },
+            "id": 58
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4607171,
+                    -13.0013556
+                ]
+            },
+            "properties": {
+                "nome": "Kumon",
+                "tipo": "prep_school"
+            },
+            "id": 59
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4648869,
+                    -12.9981957
+                ]
+            },
+            "properties": {
+                "nome": "Colegio Batista Brasileiro",
+                "tipo": "school"
+            },
+            "id": 60
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4602647,
+                    -12.9897218
+                ]
+            },
+            "properties": {
+                "nome": "Centro Diagnóstico Albert Einstein",
+                "tipo": "clinic"
+            },
+            "id": 61
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4531192,
+                    -13.0032757
+                ]
+            },
+            "properties": {
+                "nome": "Colégio Bunny",
+                "tipo": "school"
+            },
+            "id": 62
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4532096,
+                    -13.0038596
+                ]
+            },
+            "properties": {
+                "nome": "Caixa Econômica Federal",
+                "tipo": "bank"
+            },
+            "id": 63
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4738095,
+                    -12.9921238
+                ]
+            },
+            "properties": {
+                "nome": "Hospital Teresa de Lisieux",
+                "tipo": "hospital"
+            },
+            "id": 64
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4602759,
+                    -13.0055007
+                ]
+            },
+            "properties": {
+                "nome": "Arte Crianca",
+                "tipo": "school"
+            },
+            "id": 65
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4586805,
+                    -13.0036618
+                ]
+            },
+            "properties": {
+                "nome": "Super Geeks",
+                "tipo": "college"
+            },
+            "id": 66
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4738651,
+                    -12.9898711
+                ]
+            },
+            "properties": {
+                "nome": "Correios",
+                "tipo": "post_office"
+            },
+            "id": 67
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4599384,
+                    -12.999056
+                ]
+            },
+            "properties": {
+                "nome": "Red Burguer",
+                "tipo": "fast_food"
+            },
+            "id": 68
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4600529,
+                    -12.999077
+                ]
+            },
+            "properties": {
+                "nome": "Sr. Haxi",
+                "tipo": "bar"
+            },
+            "id": 69
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4598427,
+                    -12.9990799
+                ]
+            },
+            "properties": {
+                "nome": "Dermato+",
+                "tipo": "clinic"
+            },
+            "id": 70
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4674968,
+                    -12.9953908
+                ]
+            },
+            "properties": {
+                "nome": "Alfa Saúde Bucal",
+                "tipo": "dentist"
+            },
+            "id": 71
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4671267,
+                    -12.995809
+                ]
+            },
+            "properties": {
+                "nome": "Viva Café",
+                "tipo": "cafe"
+            },
+            "id": 72
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4712821,
+                    -12.9955495
+                ]
+            },
+            "properties": {
+                "nome": "Banco24Horas",
+                "tipo": "atm"
+            },
+            "id": 73
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4631532,
+                    -12.998159
+                ]
+            },
+            "properties": {
+                "nome": "A Porteira",
+                "tipo": "restaurant"
+            },
+            "id": 74
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4583865,
+                    -13.0060407
+                ]
+            },
+            "properties": {
+                "nome": "Palhoça do Caranguejo",
+                "tipo": "restaurant"
+            },
+            "id": 75
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4581811,
+                    -13.0060077
+                ]
+            },
+            "properties": {
+                "nome": "Bagdio Pizzaria",
+                "tipo": "restaurant"
+            },
+            "id": 76
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4512088,
+                    -12.9990315
+                ]
+            },
+            "properties": {
+                "nome": "Parrillero",
+                "tipo": "restaurant"
+            },
+            "id": 77
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4584109,
+                    -13.0051489
+                ]
+            },
+            "properties": {
+                "nome": "Pague Menos",
+                "tipo": "pharmacy"
+            },
+            "id": 78
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4510779,
+                    -12.9967579
+                ]
+            },
+            "properties": {
+                "nome": "16ª Delegacia Territorial",
+                "tipo": "police"
+            },
+            "id": 79
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4614875,
+                    -13.0064942
+                ]
+            },
+            "properties": {
+                "nome": "Bradesco",
+                "tipo": "bank"
+            },
+            "id": 80
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4696119,
+                    -12.9956531
+                ]
+            },
+            "properties": {
+                "nome": "Drogasmall",
+                "tipo": "pharmacy"
+            },
+            "id": 81
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4580266,
+                    -13.0029716
+                ]
+            },
+            "properties": {
+                "nome": "Elementar",
+                "tipo": "pharmacy"
+            },
+            "id": 82
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4670611,
+                    -12.9951615
+                ]
+            },
+            "properties": {
+                "nome": "Subway",
+                "tipo": "fast_food"
+            },
+            "id": 83
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.468191,
+                    -12.9957156
+                ]
+            },
+            "properties": {
+                "nome": "Bradesco",
+                "tipo": "bank"
+            },
+            "id": 84
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.459717,
+                    -13.0057625
+                ]
+            },
+            "properties": {
+                "nome": "Boa Farma",
+                "tipo": "pharmacy"
+            },
+            "id": 85
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4603231,
+                    -13.0061225
+                ]
+            },
+            "properties": {
+                "nome": "Sicredi",
+                "tipo": "bank"
+            },
+            "id": 86
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4605904,
+                    -13.0062628
+                ]
+            },
+            "properties": {
+                "nome": "Drogaria São Paulo",
+                "tipo": "pharmacy"
+            },
+            "id": 87
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4617529,
+                    -13.0070629
+                ]
+            },
+            "properties": {
+                "nome": "Via Roma Pizza Bar",
+                "tipo": "fast_food"
+            },
+            "id": 88
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4617562,
+                    -13.0073455
+                ]
+            },
+            "properties": {
+                "nome": "Itaú",
+                "tipo": "bank"
+            },
+            "id": 89
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4626826,
+                    -13.0077335
+                ]
+            },
+            "properties": {
+                "nome": "Farmácia Preço Popular",
+                "tipo": "pharmacy"
+            },
+            "id": 90
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.46291,
+                    -13.0078775
+                ]
+            },
+            "properties": {
+                "nome": "Drogaria Globo",
+                "tipo": "pharmacy"
+            },
+            "id": 91
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4635232,
+                    -13.0083291
+                ]
+            },
+            "properties": {
+                "nome": "Farmácia do Trabalhador Brasileiro",
+                "tipo": "pharmacy"
+            },
+            "id": 92
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4636413,
+                    -13.0083857
+                ]
+            },
+            "properties": {
+                "nome": "Bob's",
+                "tipo": "fast_food"
+            },
+            "id": 93
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4613468,
+                    -13.0068389
+                ]
+            },
+            "properties": {
+                "nome": "Laboratório Jaime Cerqueira",
+                "tipo": "clinic"
+            },
+            "id": 94
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4651237,
+                    -12.9962851
+                ]
+            },
+            "properties": {
+                "nome": "Amora",
+                "tipo": "pharmacy"
+            },
+            "id": 95
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4605646,
+                    -13.0068969
+                ]
+            },
+            "properties": {
+                "nome": "Drogasil",
+                "tipo": "pharmacy"
+            },
+            "id": 96
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4638221,
+                    -12.9977451
+                ]
+            },
+            "properties": {
+                "nome": "Cliderme",
+                "tipo": "clinic"
+            },
+            "id": 97
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.454828,
+                    -12.9896917
+                ]
+            },
+            "properties": {
+                "nome": "Igreja Batista da Pituba",
+                "tipo": "place_of_worship"
+            },
+            "id": 98
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.458001,
+                    -13.0030857
+                ]
+            },
+            "properties": {
+                "nome": "Brutus Burger & Beer",
+                "tipo": "fast_food"
+            },
+            "id": 99
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.460975,
+                    -12.9901853
+                ]
+            },
+            "properties": {
+                "nome": "Drogaria da Gente",
+                "tipo": "pharmacy"
+            },
+            "id": 100
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4609923,
+                    -12.9932637
+                ]
+            },
+            "properties": {
+                "nome": "Ana Lúcia Magalhães",
+                "tipo": "bicycle_rental"
+            },
+            "id": 101
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4524234,
+                    -12.9867797
+                ]
+            },
+            "properties": {
+                "nome": "Praça Aquarius",
+                "tipo": "bicycle_rental"
+            },
+            "id": 102
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4688957,
+                    -12.9878908
+                ]
+            },
+            "properties": {
+                "nome": "Drogarias São Paulo",
+                "tipo": "pharmacy"
+            },
+            "id": 103
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4559533,
+                    -13.0049881
+                ]
+            },
+            "properties": {
+                "nome": "Estação do Lanche",
+                "tipo": "fast_food"
+            },
+            "id": 104
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4559483,
+                    -13.0050612
+                ]
+            },
+            "properties": {
+                "nome": "Correios",
+                "tipo": "post_office"
+            },
+            "id": 105
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4610671,
+                    -13.0062198
+                ]
+            },
+            "properties": {
+                "nome": "Drogasil",
+                "tipo": "pharmacy"
+            },
+            "id": 106
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4631736,
+                    -13.0080803
+                ]
+            },
+            "properties": {
+                "nome": "Drogasil",
+                "tipo": "pharmacy"
+            },
+            "id": 107
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4590158,
+                    -13.0056612
+                ]
+            },
+            "properties": {
+                "nome": "Banco Santander",
+                "tipo": "bank"
+            },
+            "id": 108
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4638766,
+                    -13.0080744
+                ]
+            },
+            "properties": {
+                "nome": "Su Café Bar",
+                "tipo": "cafe"
+            },
+            "id": 109
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4628158,
+                    -13.0078247
+                ]
+            },
+            "properties": {
+                "nome": "Instituto Embeleze",
+                "tipo": "college"
+            },
+            "id": 110
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4540061,
+                    -12.989977
+                ]
+            },
+            "properties": {
+                "nome": "Drogasil",
+                "tipo": "pharmacy"
+            },
+            "id": 111
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4552676,
+                    -12.9921008
+                ]
+            },
+            "properties": {
+                "nome": "Bravo Burger",
+                "tipo": "fast_food"
+            },
+            "id": 112
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4549329,
+                    -12.9992445
+                ]
+            },
+            "properties": {
+                "nome": "Nonna Café",
+                "tipo": "cafe"
+            },
+            "id": 113
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4546719,
+                    -12.9997656
+                ]
+            },
+            "properties": {
+                "nome": "Yan Ping",
+                "tipo": "restaurant"
+            },
+            "id": 114
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4544222,
+                    -12.9975957
+                ]
+            },
+            "properties": {
+                "nome": "Banco24Horas",
+                "tipo": "atm"
+            },
+            "id": 115
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4546774,
+                    -12.9999545
+                ]
+            },
+            "properties": {
+                "nome": "Multimais",
+                "tipo": "pharmacy"
+            },
+            "id": 116
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4546532,
+                    -12.9998721
+                ]
+            },
+            "properties": {
+                "nome": "Banco24Horas",
+                "tipo": "atm"
+            },
+            "id": 117
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.458778,
+                    -13.0044335
+                ]
+            },
+            "properties": {
+                "nome": "O Rancho",
+                "tipo": "restaurant"
+            },
+            "id": 118
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4607431,
+                    -12.9933531
+                ]
+            },
+            "properties": {
+                "nome": "Atoa Lounge",
+                "tipo": "bar"
+            },
+            "id": 119
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4606315,
+                    -12.9933948
+                ]
+            },
+            "properties": {
+                "nome": "San Paolo Gelato & Café",
+                "tipo": "ice_cream"
+            },
+            "id": 120
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4600804,
+                    -12.9939434
+                ]
+            },
+            "properties": {
+                "nome": "Puro Healthy Food",
+                "tipo": "restaurant"
+            },
+            "id": 121
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4599554,
+                    -12.9940246
+                ]
+            },
+            "properties": {
+                "nome": "Pague Menos",
+                "tipo": "pharmacy"
+            },
+            "id": 122
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.461033,
+                    -12.9928914
+                ]
+            },
+            "properties": {
+                "nome": "Açaí & Saúde",
+                "tipo": "fast_food"
+            },
+            "id": 123
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.453609,
+                    -12.9901128
+                ]
+            },
+            "properties": {
+                "nome": "Pizza Hut",
+                "tipo": "restaurant"
+            },
+            "id": 124
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.461133,
+                    -12.9922957
+                ]
+            },
+            "properties": {
+                "nome": "Saúde na Panela",
+                "tipo": "restaurant"
+            },
+            "id": 125
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4709636,
+                    -12.9957448
+                ]
+            },
+            "properties": {
+                "nome": "Cantina Volpi",
+                "tipo": "restaurant"
+            },
+            "id": 126
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4716241,
+                    -12.9949054
+                ]
+            },
+            "properties": {
+                "nome": "Soho",
+                "tipo": "restaurant"
+            },
+            "id": 127
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4689135,
+                    -12.9955989
+                ]
+            },
+            "properties": {
+                "nome": "Nutriderm",
+                "tipo": "clinic"
+            },
+            "id": 128
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4518503,
+                    -13.0033668
+                ]
+            },
+            "properties": {
+                "nome": "Vila do Caranguejo",
+                "tipo": "restaurant"
+            },
+            "id": 129
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4646799,
+                    -12.9954854
+                ]
+            },
+            "properties": {
+                "nome": "Caminho de casa",
+                "tipo": "restaurant"
+            },
+            "id": 130
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4688118,
+                    -12.995639
+                ]
+            },
+            "properties": {
+                "nome": "Healthy por VC",
+                "tipo": "restaurant"
+            },
+            "id": 131
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4693246,
+                    -12.9956592
+                ]
+            },
+            "properties": {
+                "nome": "Drogaria São Paulo",
+                "tipo": "pharmacy"
+            },
+            "id": 132
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4647745,
+                    -12.9952275
+                ]
+            },
+            "properties": {
+                "nome": "Banco24Horas",
+                "tipo": "atm"
+            },
+            "id": 133
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4611148,
+                    -12.9917379
+                ]
+            },
+            "properties": {
+                "nome": "Ciciliotti",
+                "tipo": "fast_food"
+            },
+            "id": 134
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.46409,
+                    -12.9962176
+                ]
+            },
+            "properties": {
+                "nome": "Subway",
+                "tipo": "fast_food"
+            },
+            "id": 135
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4596345,
+                    -12.9896969
+                ]
+            },
+            "properties": {
+                "nome": "Cazolla",
+                "tipo": "restaurant"
+            },
+            "id": 136
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.459166,
+                    -12.9935378
+                ]
+            },
+            "properties": {
+                "nome": "Escola Creche Joãozinho e Maria",
+                "tipo": "kindergarten"
+            },
+            "id": 137
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4610473,
+                    -12.9927778
+                ]
+            },
+            "properties": {
+                "nome": "Faculdade Lusófona Bahia",
+                "tipo": "university"
+            },
+            "id": 138
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.463332,
+                    -13.0029588
+                ]
+            },
+            "properties": {
+                "nome": "Banco24Horas",
+                "tipo": "atm"
+            },
+            "id": 139
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4618535,
+                    -13.0057854
+                ]
+            },
+            "properties": {
+                "nome": "Paçaki",
+                "tipo": "fast_food"
+            },
+            "id": 140
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4633295,
+                    -13.0031145
+                ]
+            },
+            "properties": {
+                "nome": "Multifarma",
+                "tipo": "pharmacy"
+            },
+            "id": 141
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4606533,
+                    -12.9909944
+                ]
+            },
+            "properties": {
+                "nome": "Crescer",
+                "tipo": "school"
+            },
+            "id": 142
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4540199,
+                    -12.990483
+                ]
+            },
+            "properties": {
+                "nome": "Pague Menos",
+                "tipo": "pharmacy"
+            },
+            "id": 143
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4594372,
+                    -12.9896882
+                ]
+            },
+            "properties": {
+                "nome": "Farmô",
+                "tipo": "pharmacy"
+            },
+            "id": 144
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4599126,
+                    -12.9902096
+                ]
+            },
+            "properties": {
+                "nome": "Boteco da Lambreta",
+                "tipo": "restaurant"
+            },
+            "id": 145
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4593364,
+                    -12.9896842
+                ]
+            },
+            "properties": {
+                "nome": "Primagem",
+                "tipo": "clinic"
+            },
+            "id": 146
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4604246,
+                    -12.9910353
+                ]
+            },
+            "properties": {
+                "nome": "Cau Botequim",
+                "tipo": "bar"
+            },
+            "id": 147
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4574236,
+                    -13.0023308
+                ]
+            },
+            "properties": {
+                "nome": "Pet Klinic",
+                "tipo": "veterinary"
+            },
+            "id": 148
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.456827,
+                    -13.0000008
+                ]
+            },
+            "properties": {
+                "nome": "Sal Marinho",
+                "tipo": "restaurant"
+            },
+            "id": 149
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4576511,
+                    -13.0043038
+                ]
+            },
+            "properties": {
+                "nome": "Drogasil",
+                "tipo": "pharmacy"
+            },
+            "id": 150
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4591781,
+                    -12.994183
+                ]
+            },
+            "properties": {
+                "nome": "Solange Biscoitos Finos",
+                "tipo": "cafe"
+            },
+            "id": 151
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4598163,
+                    -12.9940273
+                ]
+            },
+            "properties": {
+                "nome": "Drogaria São Paulo",
+                "tipo": "pharmacy"
+            },
+            "id": 152
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4637262,
+                    -12.9962278
+                ]
+            },
+            "properties": {
+                "nome": "Banco do Brasil",
+                "tipo": "bank"
+            },
+            "id": 153
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4589857,
+                    -12.9900115
+                ]
+            },
+            "properties": {
+                "nome": "Oral Unic Implantes",
+                "tipo": "dentist"
+            },
+            "id": 154
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4639934,
+                    -12.9963116
+                ]
+            },
+            "properties": {
+                "nome": "Caixa Econômica Federal",
+                "tipo": "bank"
+            },
+            "id": 155
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4626866,
+                    -12.99232
+                ]
+            },
+            "properties": {
+                "nome": "Good good",
+                "tipo": "restaurant"
+            },
+            "id": 156
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.462727,
+                    -12.9923486
+                ]
+            },
+            "properties": {
+                "nome": "Happy Hour",
+                "tipo": "pub"
+            },
+            "id": 157
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4627656,
+                    -12.9927949
+                ]
+            },
+            "properties": {
+                "nome": "Flora Manipulação",
+                "tipo": "pharmacy"
+            },
+            "id": 158
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4604421,
+                    -12.9936584
+                ]
+            },
+            "properties": {
+                "nome": "Zaatar",
+                "tipo": "fast_food"
+            },
+            "id": 159
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4715214,
+                    -12.9950447
+                ]
+            },
+            "properties": {
+                "nome": "Banco24Horas",
+                "tipo": "atm"
+            },
+            "id": 160
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4710589,
+                    -12.9955785
+                ]
+            },
+            "properties": {
+                "nome": "Carambola",
+                "tipo": "fast_food"
+            },
+            "id": 161
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4713053,
+                    -12.9952224
+                ]
+            },
+            "properties": {
+                "nome": "A Terapêutica",
+                "tipo": "pharmacy"
+            },
+            "id": 162
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4544881,
+                    -13.002516
+                ]
+            },
+            "properties": {
+                "nome": "Sushi Bahia to go",
+                "tipo": "restaurant"
+            },
+            "id": 163
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4575387,
+                    -12.9942047
+                ]
+            },
+            "properties": {
+                "nome": "Martim Pescador",
+                "tipo": "restaurant"
+            },
+            "id": 164
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4580264,
+                    -12.994093
+                ]
+            },
+            "properties": {
+                "nome": "Proa Cervejaria",
+                "tipo": "pub"
+            },
+            "id": 165
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4604892,
+                    -12.9909542
+                ]
+            },
+            "properties": {
+                "nome": "CARE - Centro de alto rendimento no esporte",
+                "tipo": "clinic"
+            },
+            "id": 166
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4579767,
+                    -13.0002497
+                ]
+            },
+            "properties": {
+                "nome": "Outbecko",
+                "tipo": "pub"
+            },
+            "id": 167
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4567658,
+                    -13.0039963
+                ]
+            },
+            "properties": {
+                "nome": "Ponte Aérea",
+                "tipo": "bar"
+            },
+            "id": 168
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4571742,
+                    -13.0020301
+                ]
+            },
+            "properties": {
+                "nome": "Rice",
+                "tipo": "restaurant"
+            },
+            "id": 169
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4571637,
+                    -12.9906752
+                ]
+            },
+            "properties": {
+                "nome": "Buddha Bistrô Asiático",
+                "tipo": "restaurant"
+            },
+            "id": 170
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4569019,
+                    -12.9902257
+                ]
+            },
+            "properties": {
+                "nome": "Kero Massa",
+                "tipo": "restaurant"
+            },
+            "id": 171
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4554722,
+                    -12.9936062
+                ]
+            },
+            "properties": {
+                "nome": "Zacca",
+                "tipo": "bar"
+            },
+            "id": 172
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4559841,
+                    -12.9935782
+                ]
+            },
+            "properties": {
+                "nome": "Mamma's Pizza",
+                "tipo": "restaurant"
+            },
+            "id": 173
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4575538,
+                    -12.9905833
+                ]
+            },
+            "properties": {
+                "nome": "La Padokita",
+                "tipo": "cafe"
+            },
+            "id": 174
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.47089,
+                    -12.9957936
+                ]
+            },
+            "properties": {
+                "nome": "Paseo Itaigara",
+                "tipo": "bicycle_rental"
+            },
+            "id": 175
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4587322,
+                    -12.9996457
+                ]
+            },
+            "properties": {
+                "nome": "Instituto Desenvolver",
+                "tipo": "clinic"
+            },
+            "id": 176
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4674425,
+                    -12.9951002
+                ]
+            },
+            "properties": {
+                "nome": "Banco24Horas",
+                "tipo": "atm"
+            },
+            "id": 177
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4674801,
+                    -12.9951539
+                ]
+            },
+            "properties": {
+                "nome": "Correios",
+                "tipo": "post_office"
+            },
+            "id": 178
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4577383,
+                    -12.9864192
+                ]
+            },
+            "properties": {
+                "nome": "Globo",
+                "tipo": "pharmacy"
+            },
+            "id": 179
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4565269,
+                    -13.0013498
+                ]
+            },
+            "properties": {
+                "nome": "PA2",
+                "tipo": "bar"
+            },
+            "id": 180
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4694088,
+                    -12.995656
+                ]
+            },
+            "properties": {
+                "nome": "Terraço",
+                "tipo": "restaurant"
+            },
+            "id": 181
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4580285,
+                    -12.994019
+                ]
+            },
+            "properties": {
+                "nome": "A Companhia do Sertão",
+                "tipo": "restaurant"
+            },
+            "id": 182
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4667618,
+                    -12.9881309
+                ]
+            },
+            "properties": {
+                "nome": "Le Páprika",
+                "tipo": "restaurant"
+            },
+            "id": 183
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4557541,
+                    -12.9936026
+                ]
+            },
+            "properties": {
+                "nome": "reaBAvet",
+                "tipo": "veterinary"
+            },
+            "id": 184
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4548078,
+                    -12.9933383
+                ]
+            },
+            "properties": {
+                "nome": "Tai San",
+                "tipo": "restaurant"
+            },
+            "id": 185
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4548149,
+                    -12.9926843
+                ]
+            },
+            "properties": {
+                "nome": "Caixa Econômica Federal",
+                "tipo": "bank"
+            },
+            "id": 186
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4603915,
+                    -13.0047813
+                ]
+            },
+            "properties": {
+                "nome": "Yokoyama",
+                "tipo": "restaurant"
+            },
+            "id": 187
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4561324,
+                    -12.988721
+                ]
+            },
+            "properties": {
+                "nome": "Puro Sabor",
+                "tipo": "restaurant"
+            },
+            "id": 188
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4554538,
+                    -12.9889386
+                ]
+            },
+            "properties": {
+                "nome": "Leffler Vestibular",
+                "tipo": "school"
+            },
+            "id": 189
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.45622,
+                    -12.9903352
+                ]
+            },
+            "properties": {
+                "nome": "Cedermes",
+                "tipo": "clinic"
+            },
+            "id": 190
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4572965,
+                    -12.9866137
+                ]
+            },
+            "properties": {
+                "nome": "Drogasil",
+                "tipo": "pharmacy"
+            },
+            "id": 191
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4554458,
+                    -12.9890641
+                ]
+            },
+            "properties": {
+                "nome": "Elementar",
+                "tipo": "pharmacy"
+            },
+            "id": 192
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4566512,
+                    -12.9882171
+                ]
+            },
+            "properties": {
+                "nome": "Di Parma",
+                "tipo": "restaurant"
+            },
+            "id": 193
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4565168,
+                    -13.0030304
+                ]
+            },
+            "properties": {
+                "nome": "Cantina Buoni Amici",
+                "tipo": "restaurant"
+            },
+            "id": 194
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4580308,
+                    -12.9901048
+                ]
+            },
+            "properties": {
+                "nome": "Farmácia Ultra Econômica",
+                "tipo": "pharmacy"
+            },
+            "id": 195
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4601691,
+                    -12.9990629
+                ]
+            },
+            "properties": {
+                "nome": "Casa Iryna",
+                "tipo": "restaurant"
+            },
+            "id": 196
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4669363,
+                    -12.9896844
+                ]
+            },
+            "properties": {
+                "nome": "Ecoponto",
+                "tipo": "recycling"
+            },
+            "id": 197
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4611099,
+                    -12.9918467
+                ]
+            },
+            "properties": {
+                "nome": "Semeve",
+                "tipo": "veterinary"
+            },
+            "id": 198
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4582011,
+                    -12.993722
+                ]
+            },
+            "properties": {
+                "nome": "Choppim Happy Hour",
+                "tipo": "pub"
+            },
+            "id": 199
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4581916,
+                    -12.9938493
+                ]
+            },
+            "properties": {
+                "nome": "Moinho da Pizza",
+                "tipo": "restaurant"
+            },
+            "id": 200
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4580033,
+                    -12.9935172
+                ]
+            },
+            "properties": {
+                "nome": "Colégio Jardins",
+                "tipo": "childcare"
+            },
+            "id": 201
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4659303,
+                    -12.9971548
+                ]
+            },
+            "properties": {
+                "nome": "Clinoi Serviços Odontológicos",
+                "tipo": "dentist"
+            },
+            "id": 202
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4519323,
+                    -12.9971829
+                ]
+            },
+            "properties": {
+                "nome": "Maná",
+                "tipo": "restaurant"
+            },
+            "id": 203
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4559698,
+                    -13.003817
+                ]
+            },
+            "properties": {
+                "nome": "Acqua & Farina",
+                "tipo": "restaurant"
+            },
+            "id": 204
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.466644,
+                    -12.9876451
+                ]
+            },
+            "properties": {
+                "nome": "Banco Daycoval",
+                "tipo": "bank"
+            },
+            "id": 205
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.452917,
+                    -12.9935669
+                ]
+            },
+            "properties": {
+                "nome": "Aleatórios Bar",
+                "tipo": "bar"
+            },
+            "id": 206
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.453615,
+                    -12.9919337
+                ]
+            },
+            "properties": {
+                "nome": "Colégio Oficina",
+                "tipo": "school"
+            },
+            "id": 207
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4532165,
+                    -12.9919416
+                ]
+            },
+            "properties": {
+                "nome": "Porto Brasil Gourmet",
+                "tipo": "restaurant"
+            },
+            "id": 208
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4532485,
+                    -12.991328
+                ]
+            },
+            "properties": {
+                "nome": "Escola Lápis de Cor",
+                "tipo": "school"
+            },
+            "id": 209
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4532719,
+                    -12.9915703
+                ]
+            },
+            "properties": {
+                "nome": "FISK",
+                "tipo": "language_school"
+            },
+            "id": 210
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4532985,
+                    -12.9912524
+                ]
+            },
+            "properties": {
+                "nome": "Açaí Saúde",
+                "tipo": "fast_food"
+            },
+            "id": 211
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4530329,
+                    -12.9929637
+                ]
+            },
+            "properties": {
+                "nome": "Canal",
+                "tipo": "pub"
+            },
+            "id": 212
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4648973,
+                    -12.9936255
+                ]
+            },
+            "properties": {
+                "nome": "Banco24Horas",
+                "tipo": "atm"
+            },
+            "id": 213
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4606048,
+                    -13.0049928
+                ]
+            },
+            "properties": {
+                "nome": "Drogasil",
+                "tipo": "pharmacy"
+            },
+            "id": 214
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.457537,
+                    -12.9864035
+                ]
+            },
+            "properties": {
+                "nome": "Banco24Horas",
+                "tipo": "atm"
+            },
+            "id": 215
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4556447,
+                    -13.0028544
+                ]
+            },
+            "properties": {
+                "nome": "Drogaria São Paulo",
+                "tipo": "pharmacy"
+            },
+            "id": 216
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.455756,
+                    -13.0028722
+                ]
+            },
+            "properties": {
+                "nome": "Panda",
+                "tipo": "restaurant"
+            },
+            "id": 217
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4582007,
+                    -13.0033803
+                ]
+            },
+            "properties": {
+                "nome": "Clioral",
+                "tipo": "dentist"
+            },
+            "id": 218
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4603966,
+                    -12.9979683
+                ]
+            },
+            "properties": {
+                "nome": "Pizza da Chapada",
+                "tipo": "restaurant"
+            },
+            "id": 219
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4566679,
+                    -13.0014487
+                ]
+            },
+            "properties": {
+                "nome": "Cultura Inglesa",
+                "tipo": "language_school"
+            },
+            "id": 220
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.451026,
+                    -12.9876088
+                ]
+            },
+            "properties": {
+                "nome": "Delfin",
+                "tipo": "clinic"
+            },
+            "id": 221
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4572595,
+                    -12.9915937
+                ]
+            },
+            "properties": {
+                "nome": "Holiste - residência terapêutica",
+                "tipo": "nursing_home"
+            },
+            "id": 222
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4575447,
+                    -12.9916081
+                ]
+            },
+            "properties": {
+                "nome": "Lua Nova - centro de estudos",
+                "tipo": "school"
+            },
+            "id": 223
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.463597,
+                    -12.9916118
+                ]
+            },
+            "properties": {
+                "nome": "Centro de Treinamento de Judô, Jiu-Jitsu e Submission",
+                "tipo": "dojo"
+            },
+            "id": 224
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4560389,
+                    -12.9929252
+                ]
+            },
+            "properties": {
+                "nome": "Pizza Supreme",
+                "tipo": "fast_food"
+            },
+            "id": 225
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4548266,
+                    -12.9927997
+                ]
+            },
+            "properties": {
+                "nome": "Singular Pharma",
+                "tipo": "pharmacy"
+            },
+            "id": 226
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4548092,
+                    -12.9924469
+                ]
+            },
+            "properties": {
+                "nome": "Pague Menos",
+                "tipo": "pharmacy"
+            },
+            "id": 227
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4569268,
+                    -13.0012099
+                ]
+            },
+            "properties": {
+                "nome": "Restaurante Oceânico",
+                "tipo": "restaurant"
+            },
+            "id": 228
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.456853,
+                    -13.0009904
+                ]
+            },
+            "properties": {
+                "nome": "Skilo",
+                "tipo": "restaurant"
+            },
+            "id": 229
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.456322,
+                    -13.0010949
+                ]
+            },
+            "properties": {
+                "nome": "HPET",
+                "tipo": "veterinary"
+            },
+            "id": 230
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.461288,
+                    -12.9986623
+                ]
+            },
+            "properties": {
+                "nome": "Oral Imagem",
+                "tipo": "clinic"
+            },
+            "id": 231
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4621395,
+                    -12.9980103
+                ]
+            },
+            "properties": {
+                "nome": "Jhonys",
+                "tipo": "fast_food"
+            },
+            "id": 232
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4620877,
+                    -12.9979726
+                ]
+            },
+            "properties": {
+                "nome": "Novo Sabor",
+                "tipo": "restaurant"
+            },
+            "id": 233
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4601483,
+                    -12.9986536
+                ]
+            },
+            "properties": {
+                "nome": "NBI Implantes dentários",
+                "tipo": "dentist"
+            },
+            "id": 234
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4600513,
+                    -12.9986407
+                ]
+            },
+            "properties": {
+                "nome": "Cenior",
+                "tipo": "dentist"
+            },
+            "id": 235
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4599204,
+                    -12.9979965
+                ]
+            },
+            "properties": {
+                "nome": "Karatê-Dô Tradicional",
+                "tipo": "dojo"
+            },
+            "id": 236
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.461114,
+                    -12.9917946
+                ]
+            },
+            "properties": {
+                "nome": "Aloha Poke",
+                "tipo": "restaurant"
+            },
+            "id": 237
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4537363,
+                    -12.9965579
+                ]
+            },
+            "properties": {
+                "nome": "Comedoria",
+                "tipo": "restaurant"
+            },
+            "id": 238
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4701445,
+                    -12.991096
+                ]
+            },
+            "properties": {
+                "nome": "Centro Educacional Luz do Saber",
+                "tipo": "childcare"
+            },
+            "id": 239
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4540259,
+                    -12.9884099
+                ]
+            },
+            "properties": {
+                "nome": "Nossa Escola",
+                "tipo": "school"
+            },
+            "id": 240
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4618384,
+                    -12.9867101
+                ]
+            },
+            "properties": {
+                "nome": "Segundo Expediente",
+                "tipo": "pub"
+            },
+            "id": 241
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4621801,
+                    -12.9880554
+                ]
+            },
+            "properties": {
+                "nome": "Acarajé da Didiu",
+                "tipo": "fast_food"
+            },
+            "id": 242
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4530701,
+                    -12.9925754
+                ]
+            },
+            "properties": {
+                "nome": "Fast Lava Jato",
+                "tipo": "car_wash"
+            },
+            "id": 243
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.458438,
+                    -12.9869419
+                ]
+            },
+            "properties": {
+                "nome": "Jerimum Buffet",
+                "tipo": "restaurant"
+            },
+            "id": 244
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4551465,
+                    -13.004241
+                ]
+            },
+            "properties": {
+                "nome": "Cantina Cosa Nostra",
+                "tipo": "restaurant"
+            },
+            "id": 245
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4550578,
+                    -13.0044904
+                ]
+            },
+            "properties": {
+                "nome": "Atacadão dos Remédios",
+                "tipo": "pharmacy"
+            },
+            "id": 246
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4563688,
+                    -13.0046481
+                ]
+            },
+            "properties": {
+                "nome": "Banco do Brasil",
+                "tipo": "bank"
+            },
+            "id": 247
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4578021,
+                    -13.0053568
+                ]
+            },
+            "properties": {
+                "nome": "Pharmapele",
+                "tipo": "pharmacy"
+            },
+            "id": 248
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4583372,
+                    -13.0051348
+                ]
+            },
+            "properties": {
+                "nome": "A Fórmula",
+                "tipo": "pharmacy"
+            },
+            "id": 249
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4587552,
+                    -13.0055829
+                ]
+            },
+            "properties": {
+                "nome": "Extrafarma",
+                "tipo": "pharmacy"
+            },
+            "id": 250
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4606218,
+                    -13.0059601
+                ]
+            },
+            "properties": {
+                "nome": "Gregor Mendel Vestibular",
+                "tipo": "school"
+            },
+            "id": 251
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4605166,
+                    -13.0058935
+                ]
+            },
+            "properties": {
+                "nome": "Hospital de Odontologia Especializada",
+                "tipo": "dentist"
+            },
+            "id": 252
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.457188,
+                    -12.9992915
+                ]
+            },
+            "properties": {
+                "nome": "Oriental",
+                "tipo": "restaurant"
+            },
+            "id": 253
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4563019,
+                    -13.0024466
+                ]
+            },
+            "properties": {
+                "nome": "Corporin",
+                "tipo": "clinic"
+            },
+            "id": 254
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4572055,
+                    -13.0031243
+                ]
+            },
+            "properties": {
+                "nome": "Disque Coco",
+                "tipo": "fast_food"
+            },
+            "id": 255
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4571388,
+                    -13.0031803
+                ]
+            },
+            "properties": {
+                "nome": "Clínica Rio de Janeiro",
+                "tipo": "clinic"
+            },
+            "id": 256
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4597422,
+                    -12.9913706
+                ]
+            },
+            "properties": {
+                "nome": "Pirambeira",
+                "tipo": "bar"
+            },
+            "id": 257
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4569993,
+                    -12.9868189
+                ]
+            },
+            "properties": {
+                "nome": "Pitchuco",
+                "tipo": "childcare"
+            },
+            "id": 258
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4632389,
+                    -13.0020724
+                ]
+            },
+            "properties": {
+                "nome": "Bruna Andrade Nutricionista",
+                "tipo": "doctors"
+            },
+            "id": 259
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4624921,
+                    -13.0083445
+                ]
+            },
+            "properties": {
+                "nome": "Açaí no Kilo",
+                "tipo": "fast_food"
+            },
+            "id": 260
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4625893,
+                    -13.0082029
+                ]
+            },
+            "properties": {
+                "nome": "Di Lucca",
+                "tipo": "restaurant"
+            },
+            "id": 261
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4606245,
+                    -12.9902036
+                ]
+            },
+            "properties": {
+                "nome": "Sorveteria da Ribeira",
+                "tipo": "ice_cream"
+            },
+            "id": 262
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4563566,
+                    -12.9881722
+                ]
+            },
+            "properties": {
+                "nome": "Il Filetto",
+                "tipo": "restaurant"
+            },
+            "id": 263
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4562352,
+                    -12.9879807
+                ]
+            },
+            "properties": {
+                "nome": "La Kantuta",
+                "tipo": "fast_food"
+            },
+            "id": 264
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4612298,
+                    -13.0012327
+                ]
+            },
+            "properties": {
+                "nome": "Drogasil",
+                "tipo": "pharmacy"
+            },
+            "id": 265
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.461767,
+                    -13.0012714
+                ]
+            },
+            "properties": {
+                "nome": "Juca Açaí",
+                "tipo": "fast_food"
+            },
+            "id": 266
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4566013,
+                    -13.0030517
+                ]
+            },
+            "properties": {
+                "nome": "Igreja Cristã Maranata",
+                "tipo": "place_of_worship"
+            },
+            "id": 267
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4627536,
+                    -12.9988936
+                ]
+            },
+            "properties": {
+                "nome": "Taurus Burger and Beer",
+                "tipo": "fast_food"
+            },
+            "id": 268
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4635811,
+                    -12.9990418
+                ]
+            },
+            "properties": {
+                "nome": "Haack",
+                "tipo": "restaurant"
+            },
+            "id": 269
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4606298,
+                    -12.9919235
+                ]
+            },
+            "properties": {
+                "nome": "Studio Fisio",
+                "tipo": "clinic"
+            },
+            "id": 270
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.464028,
+                    -13.0078903
+                ]
+            },
+            "properties": {
+                "nome": "One Sushi",
+                "tipo": "restaurant"
+            },
+            "id": 271
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4554845,
+                    -12.9887937
+                ]
+            },
+            "properties": {
+                "nome": "Restaurante Origem",
+                "tipo": "restaurant"
+            },
+            "id": 272
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4555084,
+                    -12.988698
+                ]
+            },
+            "properties": {
+                "nome": "Rhoncus Beer Garden",
+                "tipo": "pub"
+            },
+            "id": 273
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4573851,
+                    -13.0023206
+                ]
+            },
+            "properties": {
+                "nome": "Trânsito Livre",
+                "tipo": "driving_school"
+            },
+            "id": 274
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.457533,
+                    -13.0023495
+                ]
+            },
+            "properties": {
+                "nome": "Colher de Prata",
+                "tipo": "restaurant"
+            },
+            "id": 275
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4589149,
+                    -13.0027186
+                ]
+            },
+            "properties": {
+                "nome": "McDonald's",
+                "tipo": "fast_food"
+            },
+            "id": 276
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.461554,
+                    -13.004746
+                ]
+            },
+            "properties": {
+                "nome": "Outlet dos Picolés",
+                "tipo": "ice_cream"
+            },
+            "id": 277
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.462035,
+                    -13.006373
+                ]
+            },
+            "properties": {
+                "nome": "O Porco",
+                "tipo": "restaurant"
+            },
+            "id": 278
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4623387,
+                    -13.0069528
+                ]
+            },
+            "properties": {
+                "nome": "Acarajé da Chica",
+                "tipo": "fast_food"
+            },
+            "id": 279
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4633538,
+                    -13.0073644
+                ]
+            },
+            "properties": {
+                "nome": "Centro Terapêutico do Idoso Flor de Lótus",
+                "tipo": "clinic"
+            },
+            "id": 280
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4582537,
+                    -12.9900595
+                ]
+            },
+            "properties": {
+                "nome": "É Free",
+                "tipo": "restaurant"
+            },
+            "id": 281
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4592258,
+                    -12.9941818
+                ]
+            },
+            "properties": {
+                "nome": "California Brownieria",
+                "tipo": "cafe"
+            },
+            "id": 282
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.460642,
+                    -12.9909131
+                ]
+            },
+            "properties": {
+                "nome": "Arabesque",
+                "tipo": "restaurant"
+            },
+            "id": 283
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4592948,
+                    -12.9918012
+                ]
+            },
+            "properties": {
+                "nome": "Astro",
+                "tipo": "bar"
+            },
+            "id": 284
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.457879,
+                    -13.0059443
+                ]
+            },
+            "properties": {
+                "nome": "A Cubana",
+                "tipo": "ice_cream"
+            },
+            "id": 285
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.460951,
+                    -12.9929953
+                ]
+            },
+            "properties": {
+                "nome": "igh Healthcare",
+                "tipo": "clinic"
+            },
+            "id": 286
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4597615,
+                    -12.9941205
+                ]
+            },
+            "properties": {
+                "nome": "Pãozito",
+                "tipo": "fast_food"
+            },
+            "id": 287
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4571427,
+                    -13.005999
+                ]
+            },
+            "properties": {
+                "nome": "Nossa Senhora da Luz",
+                "tipo": "bicycle_rental"
+            },
+            "id": 288
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4554728,
+                    -12.9928866
+                ]
+            },
+            "properties": {
+                "nome": "Quintal da Esquina",
+                "tipo": "bar"
+            },
+            "id": 289
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4589505,
+                    -12.9940872
+                ]
+            },
+            "properties": {
+                "nome": "Canto Encanto",
+                "tipo": "clinic"
+            },
+            "id": 290
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4589997,
+                    -12.9940833
+                ]
+            },
+            "properties": {
+                "nome": "Carolina Dias",
+                "tipo": "clinic"
+            },
+            "id": 291
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4570571,
+                    -13.0038403
+                ]
+            },
+            "properties": {
+                "nome": "Hapvida Pituba I",
+                "tipo": "clinic"
+            },
+            "id": 292
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4584579,
+                    -13.0057231
+                ]
+            },
+            "properties": {
+                "nome": "Clínica do Trabalho",
+                "tipo": "clinic"
+            },
+            "id": 293
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4552507,
+                    -13.0049381
+                ]
+            },
+            "properties": {
+                "nome": "Sotero Burger & Pub",
+                "tipo": "fast_food"
+            },
+            "id": 294
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4509414,
+                    -12.9914136
+                ]
+            },
+            "properties": {
+                "nome": "Escola Espaço Ideal",
+                "tipo": "school"
+            },
+            "id": 295
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4614499,
+                    -12.9927087
+                ]
+            },
+            "properties": {
+                "nome": "Soma Vantagens",
+                "tipo": "recycling"
+            },
+            "id": 296
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4581604,
+                    -12.990527
+                ]
+            },
+            "properties": {
+                "nome": "Villa Lata",
+                "tipo": "veterinary"
+            },
+            "id": 297
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4539957,
+                    -12.9941181
+                ]
+            },
+            "properties": {
+                "nome": "Acarajé Dária & Laura",
+                "tipo": "fast_food"
+            },
+            "id": 298
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4710859,
+                    -12.9954005
+                ]
+            },
+            "properties": {
+                "nome": "Oakberry Açaí bowls",
+                "tipo": "fast_food"
+            },
+            "id": 299
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4704349,
+                    -12.9957449
+                ]
+            },
+            "properties": {
+                "nome": "The Pharmacy",
+                "tipo": "pharmacy"
+            },
+            "id": 300
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4578537,
+                    -13.0030392
+                ]
+            },
+            "properties": {
+                "nome": "Coffeetown",
+                "tipo": "cafe"
+            },
+            "id": 301
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4578423,
+                    -13.0029091
+                ]
+            },
+            "properties": {
+                "nome": "Pepo Restaurante",
+                "tipo": "restaurant"
+            },
+            "id": 302
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4578138,
+                    -13.0029686
+                ]
+            },
+            "properties": {
+                "nome": "La Bottega",
+                "tipo": "bar"
+            },
+            "id": 303
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4557137,
+                    -13.0023256
+                ]
+            },
+            "properties": {
+                "nome": "Frio Gostoso",
+                "tipo": "ice_cream"
+            },
+            "id": 304
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.458019,
+                    -13.0030179
+                ]
+            },
+            "properties": {
+                "nome": "DHL",
+                "tipo": "post_office"
+            },
+            "id": 305
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4600645,
+                    -13.0008778
+                ]
+            },
+            "properties": {
+                "nome": "Yankee",
+                "tipo": "fast_food"
+            },
+            "id": 306
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4601064,
+                    -12.9890483
+                ]
+            },
+            "properties": {
+                "nome": "Bar do Jorge",
+                "tipo": "pub"
+            },
+            "id": 307
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4568747,
+                    -12.9902405
+                ]
+            },
+            "properties": {
+                "nome": "Joks",
+                "tipo": "fast_food"
+            },
+            "id": 308
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.46501,
+                    -12.9961745
+                ]
+            },
+            "properties": {
+                "nome": "Nonni la Pasta Espressa",
+                "tipo": "restaurant"
+            },
+            "id": 309
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.471474,
+                    -12.9952311
+                ]
+            },
+            "properties": {
+                "nome": "Boutique das Tortas",
+                "tipo": "cafe"
+            },
+            "id": 310
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4639624,
+                    -12.9961625
+                ]
+            },
+            "properties": {
+                "nome": "Pague Menos",
+                "tipo": "pharmacy"
+            },
+            "id": 311
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4604752,
+                    -12.9936272
+                ]
+            },
+            "properties": {
+                "nome": "Pizzette",
+                "tipo": "fast_food"
+            },
+            "id": 312
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4574378,
+                    -12.9905812
+                ]
+            },
+            "properties": {
+                "nome": "CNA",
+                "tipo": "language_school"
+            },
+            "id": 313
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4605196,
+                    -12.9922972
+                ]
+            },
+            "properties": {
+                "nome": "La Empa",
+                "tipo": "fast_food"
+            },
+            "id": 314
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4552632,
+                    -12.9924826
+                ]
+            },
+            "properties": {
+                "nome": "Obá",
+                "tipo": "bar"
+            },
+            "id": 315
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4552734,
+                    -12.9926911
+                ]
+            },
+            "properties": {
+                "nome": "Kumon",
+                "tipo": "prep_school"
+            },
+            "id": 316
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4552619,
+                    -12.992569
+                ]
+            },
+            "properties": {
+                "nome": "Marreco",
+                "tipo": "bar"
+            },
+            "id": 317
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4517975,
+                    -12.9867773
+                ]
+            },
+            "properties": {
+                "nome": "aSè Gastrobar",
+                "tipo": "restaurant"
+            },
+            "id": 318
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4505952,
+                    -12.9879972
+                ]
+            },
+            "properties": {
+                "nome": "IORB",
+                "tipo": "clinic"
+            },
+            "id": 319
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4540828,
+                    -13.0049407
+                ]
+            },
+            "properties": {
+                "nome": "Banco24Horas",
+                "tipo": "atm"
+            },
+            "id": 320
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.451686,
+                    -13.0033267
+                ]
+            },
+            "properties": {
+                "nome": "Espetto Baiano Prime",
+                "tipo": "bar"
+            },
+            "id": 321
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4542349,
+                    -12.9923751
+                ]
+            },
+            "properties": {
+                "nome": "Riz Bistrot",
+                "tipo": "restaurant"
+            },
+            "id": 322
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4596733,
+                    -12.9941441
+                ]
+            },
+            "properties": {
+                "nome": "The Coffee",
+                "tipo": "cafe"
+            },
+            "id": 323
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4599221,
+                    -13.0054397
+                ]
+            },
+            "properties": {
+                "nome": "Burger King",
+                "tipo": "fast_food"
+            },
+            "id": 324
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4603247,
+                    -13.0006886
+                ]
+            },
+            "properties": {
+                "nome": "Pizza Creek",
+                "tipo": "fast_food"
+            },
+            "id": 325
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4597226,
+                    -13.0010883
+                ]
+            },
+            "properties": {
+                "nome": "La Gringa",
+                "tipo": "fast_food"
+            },
+            "id": 326
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.453479,
+                    -13.0040041
+                ]
+            },
+            "properties": {
+                "nome": "Jadlog",
+                "tipo": "post_office"
+            },
+            "id": 327
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4635139,
+                    -12.9964025
+                ]
+            },
+            "properties": {
+                "nome": "Empada Gourmet",
+                "tipo": "fast_food"
+            },
+            "id": 328
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4599712,
+                    -12.997993
+                ]
+            },
+            "properties": {
+                "nome": "Escola Pequeno Liceu",
+                "tipo": "school"
+            },
+            "id": 329
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4576652,
+                    -12.9994607
+                ]
+            },
+            "properties": {
+                "nome": "Guimarães Lima Infinity",
+                "tipo": "dentist"
+            },
+            "id": 330
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4576654,
+                    -12.9997417
+                ]
+            },
+            "properties": {
+                "nome": "Vila de Gaia Terapias",
+                "tipo": "clinic"
+            },
+            "id": 331
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4711272,
+                    -12.9956096
+                ]
+            },
+            "properties": {
+                "nome": "Fresh Slow Food",
+                "tipo": "cafe"
+            },
+            "id": 332
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4602911,
+                    -12.9896594
+                ]
+            },
+            "properties": {
+                "nome": "Instituto Procardíaco",
+                "tipo": "clinic"
+            },
+            "id": 333
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4611085,
+                    -12.9920528
+                ]
+            },
+            "properties": {
+                "nome": "Do Coado ao Expresso",
+                "tipo": "cafe"
+            },
+            "id": 334
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4671905,
+                    -12.9953087
+                ]
+            },
+            "properties": {
+                "nome": "Centro de Diagnóstico por Imagem",
+                "tipo": "clinic"
+            },
+            "id": 335
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4577962,
+                    -13.0039892
+                ]
+            },
+            "properties": {
+                "nome": "Chocolate Lugano",
+                "tipo": "cafe"
+            },
+            "id": 336
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4570981,
+                    -12.9901786
+                ]
+            },
+            "properties": {
+                "nome": "Gelato Borelli",
+                "tipo": "ice_cream"
+            },
+            "id": 337
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4524085,
+                    -12.9903815
+                ]
+            },
+            "properties": {
+                "nome": "Tangerina",
+                "tipo": "restaurant"
+            },
+            "id": 338
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4609928,
+                    -12.9929708
+                ]
+            },
+            "properties": {
+                "nome": "Beiju Mix",
+                "tipo": "fast_food"
+            },
+            "id": 339
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4597028,
+                    -13.0040025
+                ]
+            },
+            "properties": {
+                "nome": "Banco24Horas",
+                "tipo": "atm"
+            },
+            "id": 340
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.471377,
+                    -12.9954072
+                ]
+            },
+            "properties": {
+                "nome": "Villa Cafeeiro",
+                "tipo": "cafe"
+            },
+            "id": 341
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4608537,
+                    -13.0042591
+                ]
+            },
+            "properties": {
+                "nome": "Açaí Vilarejo",
+                "tipo": "fast_food"
+            },
+            "id": 342
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.460911,
+                    -12.9931583
+                ]
+            },
+            "properties": {
+                "nome": "Capelinha",
+                "tipo": "ice_cream"
+            },
+            "id": 343
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4552585,
+                    -12.9919066
+                ]
+            },
+            "properties": {
+                "nome": "Regalo Pizzaria",
+                "tipo": "restaurant"
+            },
+            "id": 344
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4610523,
+                    -12.9988121
+                ]
+            },
+            "properties": {
+                "nome": "Sicoob",
+                "tipo": "bank"
+            },
+            "id": 345
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4655037,
+                    -12.9961699
+                ]
+            },
+            "properties": {
+                "nome": "Farmafórmula",
+                "tipo": "pharmacy"
+            },
+            "id": 346
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4653709,
+                    -12.9960695
+                ]
+            },
+            "properties": {
+                "nome": "Fazendinha Grill",
+                "tipo": "restaurant"
+            },
+            "id": 347
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4619168,
+                    -13.0020759
+                ]
+            },
+            "properties": {
+                "nome": "Libertar Bier",
+                "tipo": "bar"
+            },
+            "id": 348
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4580847,
+                    -12.9905572
+                ]
+            },
+            "properties": {
+                "nome": "Pasta Way",
+                "tipo": "fast_food"
+            },
+            "id": 349
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4583309,
+                    -12.9937039
+                ]
+            },
+            "properties": {
+                "nome": "Kofi Cafeteria",
+                "tipo": "cafe"
+            },
+            "id": 350
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4636966,
+                    -13.007985
+                ]
+            },
+            "properties": {
+                "nome": "Movida",
+                "tipo": "car_rental"
+            },
+            "id": 351
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4594506,
+                    -13.0054005
+                ]
+            },
+            "properties": {
+                "nome": "DOGatto",
+                "tipo": "veterinary"
+            },
+            "id": 352
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4579773,
+                    -12.9905879
+                ]
+            },
+            "properties": {
+                "nome": "Odália",
+                "tipo": "cafe"
+            },
+            "id": 353
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4691687,
+                    -12.9956556
+                ]
+            },
+            "properties": {
+                "nome": "A Cubana",
+                "tipo": "ice_cream"
+            },
+            "id": 354
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4610856,
+                    -12.9905936
+                ]
+            },
+            "properties": {
+                "nome": "Minds",
+                "tipo": "language_school"
+            },
+            "id": 355
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4710649,
+                    -12.9886739
+                ]
+            },
+            "properties": {
+                "nome": "DiFoca",
+                "tipo": "bar"
+            },
+            "id": 356
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4691249,
+                    -12.9955009
+                ]
+            },
+            "properties": {
+                "nome": "Heal Institute",
+                "tipo": "clinic"
+            },
+            "id": 357
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4703791,
+                    -12.9956912
+                ]
+            },
+            "properties": {
+                "nome": "Sicredi",
+                "tipo": "bank"
+            },
+            "id": 358
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.459318,
+                    -12.9907349
+                ]
+            },
+            "properties": {
+                "nome": "Bio Salute",
+                "tipo": "clinic"
+            },
+            "id": 359
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4610777,
+                    -12.9908163
+                ]
+            },
+            "properties": {
+                "nome": "Patroni",
+                "tipo": "restaurant"
+            },
+            "id": 360
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4713938,
+                    -12.9949833
+                ]
+            },
+            "properties": {
+                "nome": "La Pulperia",
+                "tipo": "restaurant"
+            },
+            "id": 361
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4578922,
+                    -13.0035875
+                ]
+            },
+            "properties": {
+                "nome": "Ópera Café",
+                "tipo": "cafe"
+            },
+            "id": 362
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4588287,
+                    -12.990467
+                ]
+            },
+            "properties": {
+                "nome": "Botecaria",
+                "tipo": "bar"
+            },
+            "id": 363
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4507879,
+                    -13.0013218
+                ]
+            },
+            "properties": {
+                "nome": "Boteco do Caranguejo",
+                "tipo": "bar"
+            },
+            "id": 364
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4533739,
+                    -13.003962
+                ]
+            },
+            "properties": {
+                "nome": "Pãozinho Delícia Baiano",
+                "tipo": "fast_food"
+            },
+            "id": 365
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4659014,
+                    -12.9959867
+                ]
+            },
+            "properties": {
+                "nome": "Wizard",
+                "tipo": "language_school"
+            },
+            "id": 366
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.461173,
+                    -13.0075391
+                ]
+            },
+            "properties": {
+                "nome": "Kion",
+                "tipo": "restaurant"
+            },
+            "id": 367
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4576792,
+                    -12.9901654
+                ]
+            },
+            "properties": {
+                "nome": "Seu Zelito Boteco dos Botecos",
+                "tipo": "bar"
+            },
+            "id": 368
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4556124,
+                    -12.9936223
+                ]
+            },
+            "properties": {
+                "nome": "Lar Café Bistrô",
+                "tipo": "restaurant"
+            },
+            "id": 369
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4530396,
+                    -12.9927921
+                ]
+            },
+            "properties": {
+                "nome": "Alliance",
+                "tipo": "dojo"
+            },
+            "id": 370
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4527567,
+                    -12.9942109
+                ]
+            },
+            "properties": {
+                "nome": "Nova Belles",
+                "tipo": "restaurant"
+            },
+            "id": 371
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4541896,
+                    -12.9923837
+                ]
+            },
+            "properties": {
+                "nome": "Alecrim",
+                "tipo": "restaurant"
+            },
+            "id": 372
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4533348,
+                    -12.9909645
+                ]
+            },
+            "properties": {
+                "nome": "Escola Reino Encantado",
+                "tipo": "school"
+            },
+            "id": 373
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4533524,
+                    -12.9908724
+                ]
+            },
+            "properties": {
+                "nome": "Super Fantástico",
+                "tipo": "events_venue"
+            },
+            "id": 374
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4550111,
+                    -12.9935749
+                ]
+            },
+            "properties": {
+                "nome": "Viver Natura",
+                "tipo": "cafe"
+            },
+            "id": 375
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4534125,
+                    -12.9929358
+                ]
+            },
+            "properties": {
+                "nome": "inFlux",
+                "tipo": "language_school"
+            },
+            "id": 376
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4533169,
+                    -12.9943996
+                ]
+            },
+            "properties": {
+                "nome": "Diagnose Animal",
+                "tipo": "veterinary"
+            },
+            "id": 377
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4530749,
+                    -12.9945044
+                ]
+            },
+            "properties": {
+                "nome": "Pet Doctor",
+                "tipo": "veterinary"
+            },
+            "id": 378
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4548989,
+                    -12.9991971
+                ]
+            },
+            "properties": {
+                "nome": "Royal Farmácia de Manipulação",
+                "tipo": "pharmacy"
+            },
+            "id": 379
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4595195,
+                    -12.99412
+                ]
+            },
+            "properties": {
+                "nome": "Kennel Veterinária",
+                "tipo": "veterinary"
+            },
+            "id": 380
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4548005,
+                    -12.9932947
+                ]
+            },
+            "properties": {
+                "nome": "Dendê",
+                "tipo": "restaurant"
+            },
+            "id": 381
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.459762,
+                    -12.9916129
+                ]
+            },
+            "properties": {
+                "nome": "Tatu Bola",
+                "tipo": "bar"
+            },
+            "id": 382
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4604137,
+                    -12.9936275
+                ]
+            },
+            "properties": {
+                "nome": "O Chefão do Pirão",
+                "tipo": "restaurant"
+            },
+            "id": 383
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4528374,
+                    -12.9959231
+                ]
+            },
+            "properties": {
+                "nome": "Ital'in House",
+                "tipo": "fast_food"
+            },
+            "id": 384
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.452859,
+                    -12.9959718
+                ]
+            },
+            "properties": {
+                "nome": "Mr. English",
+                "tipo": "language_school"
+            },
+            "id": 385
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4534487,
+                    -12.990161
+                ]
+            },
+            "properties": {
+                "nome": "Poke Boss",
+                "tipo": "restaurant"
+            },
+            "id": 386
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4577874,
+                    -12.9901677
+                ]
+            },
+            "properties": {
+                "nome": "Multiclin",
+                "tipo": "clinic"
+            },
+            "id": 387
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4596337,
+                    -12.9997581
+                ]
+            },
+            "properties": {
+                "nome": "BRT Pituba",
+                "tipo": "bicycle_rental"
+            },
+            "id": 388
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.459062,
+                    -13.0039161
+                ]
+            },
+            "properties": {
+                "nome": "Praça Belo Horizonte",
+                "tipo": "bicycle_rental"
+            },
+            "id": 389
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4602551,
+                    -13.0074441
+                ]
+            },
+            "properties": {
+                "nome": "Oriental Prime",
+                "tipo": "restaurant"
+            },
+            "id": 390
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4576143,
+                    -12.9898562
+                ]
+            },
+            "properties": {
+                "nome": "tigelato",
+                "tipo": "ice_cream"
+            },
+            "id": 391
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.463865,
+                    -12.9962217
+                ]
+            },
+            "properties": {
+                "nome": "Terraço Natura",
+                "tipo": "restaurant"
+            },
+            "id": 392
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4687655,
+                    -12.9956406
+                ]
+            },
+            "properties": {
+                "nome": "D'Gregório do Café Ao Vinho",
+                "tipo": "cafe"
+            },
+            "id": 393
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4608089,
+                    -12.9901682
+                ]
+            },
+            "properties": {
+                "nome": "Sorvete Berry's",
+                "tipo": "ice_cream"
+            },
+            "id": 394
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4582832,
+                    -12.994045
+                ]
+            },
+            "properties": {
+                "nome": "Hospital Fundação Baiana de Cardiologia",
+                "tipo": "hospital"
+            },
+            "id": 395
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4599877,
+                    -12.9990873
+                ]
+            },
+            "properties": {
+                "nome": "Purgatório",
+                "tipo": "bar"
+            },
+            "id": 396
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4588564,
+                    -12.9940836
+                ]
+            },
+            "properties": {
+                "nome": "Sêmola Café & Brunch",
+                "tipo": "cafe"
+            },
+            "id": 397
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4604099,
+                    -12.9917745
+                ]
+            },
+            "properties": {
+                "nome": "Família Frantz Wine House",
+                "tipo": "restaurant"
+            },
+            "id": 398
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4570722,
+                    -13.0012616
+                ]
+            },
+            "properties": {
+                "nome": "Fabbrica di Pizza",
+                "tipo": "restaurant"
+            },
+            "id": 399
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4672828,
+                    -13.0079133
+                ]
+            },
+            "properties": {
+                "nome": "Igreja Adventista",
+                "tipo": "place_of_worship"
+            },
+            "id": 400
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4625113,
+                    -13.0081182
+                ]
+            },
+            "properties": {
+                "nome": "Go Coffee",
+                "tipo": "cafe"
+            },
+            "id": 401
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4628253,
+                    -13.0082117
+                ]
+            },
+            "properties": {
+                "nome": "Capelinha",
+                "tipo": "ice_cream"
+            },
+            "id": 402
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4620385,
+                    -13.0072261
+                ]
+            },
+            "properties": {
+                "nome": "Pituba Manoel Dias",
+                "tipo": "bicycle_rental"
+            },
+            "id": 403
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4609833,
+                    -13.0061736
+                ]
+            },
+            "properties": {
+                "nome": "Sicoob",
+                "tipo": "bank"
+            },
+            "id": 404
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4515852,
+                    -13.0032297
+                ]
+            },
+            "properties": {
+                "nome": "Jurerê Bar",
+                "tipo": "bar"
+            },
+            "id": 405
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4557083,
+                    -13.0026089
+                ]
+            },
+            "properties": {
+                "nome": "School of Rock",
+                "tipo": "music_school"
+            },
+            "id": 406
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4615915,
+                    -13.0069567
+                ]
+            },
+            "properties": {
+                "nome": "Agibank",
+                "tipo": "bank"
+            },
+            "id": 407
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4604411,
+                    -12.9915844
+                ]
+            },
+            "properties": {
+                "nome": "Kadan Sushi Bar",
+                "tipo": "restaurant"
+            },
+            "id": 408
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4654573,
+                    -12.998653
+                ]
+            },
+            "properties": {
+                "nome": "Alclin Hospital de Olhos",
+                "tipo": "doctors"
+            },
+            "id": 409
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4654559,
+                    -12.9985935
+                ]
+            },
+            "properties": {
+                "nome": "Memorial Café",
+                "tipo": "cafe"
+            },
+            "id": 410
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4642249,
+                    -12.9979313
+                ]
+            },
+            "properties": {
+                "nome": "Bistrô 55",
+                "tipo": "cafe"
+            },
+            "id": 411
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4646872,
+                    -12.9954255
+                ]
+            },
+            "properties": {
+                "nome": "Caixa Econômica Federal",
+                "tipo": "bank"
+            },
+            "id": 412
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4547333,
+                    -13.0000929
+                ]
+            },
+            "properties": {
+                "nome": "Larica Lanche",
+                "tipo": "fast_food"
+            },
+            "id": 413
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4547475,
+                    -13.0003908
+                ]
+            },
+            "properties": {
+                "nome": "Br[P2P]Cripto LOJA BITCOIN",
+                "tipo": "bank"
+            },
+            "id": 414
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4712154,
+                    -12.9951605
+                ]
+            },
+            "properties": {
+                "nome": "Sucré Doceria",
+                "tipo": "cafe"
+            },
+            "id": 415
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4711532,
+                    -12.9952642
+                ]
+            },
+            "properties": {
+                "nome": "Poke Boss",
+                "tipo": "restaurant"
+            },
+            "id": 416
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4608182,
+                    -12.9997741
+                ]
+            },
+            "properties": {
+                "nome": "Clínica CAM - Itaigara",
+                "tipo": "clinic"
+            },
+            "id": 417
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4545872,
+                    -12.9940794
+                ]
+            },
+            "properties": {
+                "nome": "BR",
+                "tipo": "fuel"
+            },
+            "id": 418
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4652951,
+                    -12.9972859
+                ]
+            },
+            "properties": {
+                "nome": "Prover - Clínica de Oftamologia e Cirurgia Especializada",
+                "tipo": "doctors"
+            },
+            "id": 419
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4637964,
+                    -12.9961613
+                ]
+            },
+            "properties": {
+                "nome": "Farmácias Ultra Popular",
+                "tipo": "pharmacy"
+            },
+            "id": 420
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.465378,
+                    -12.9986624
+                ]
+            },
+            "properties": {
+                "nome": "Image diagnóstico por imagem",
+                "tipo": "clinic"
+            },
+            "id": 421
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4679677,
+                    -12.987354
+                ]
+            },
+            "properties": {
+                "nome": "SW Rentacar",
+                "tipo": "car_rental"
+            },
+            "id": 422
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4526509,
+                    -12.9935373
+                ]
+            },
+            "properties": {
+                "nome": "Confeitaria Le Lapin",
+                "tipo": "cafe"
+            },
+            "id": 423
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4594666,
+                    -12.9900581
+                ]
+            },
+            "properties": {
+                "nome": "Novaimuno",
+                "tipo": "clinic"
+            },
+            "id": 424
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4669783,
+                    -12.9958316
+                ]
+            },
+            "properties": {
+                "nome": "Farmácias Multmais",
+                "tipo": "pharmacy"
+            },
+            "id": 425
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4563786,
+                    -13.0011753
+                ]
+            },
+            "properties": {
+                "nome": "Confeitaria Thiago Sá",
+                "tipo": "cafe"
+            },
+            "id": 426
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4534665,
+                    -13.0021548
+                ]
+            },
+            "properties": {
+                "nome": "Sicoob",
+                "tipo": "bank"
+            },
+            "id": 427
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4544248,
+                    -13.0049552
+                ]
+            },
+            "properties": {
+                "nome": "HPet",
+                "tipo": "veterinary"
+            },
+            "id": 428
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4569441,
+                    -13.0005641
+                ]
+            },
+            "properties": {
+                "nome": "R5 Produtora",
+                "tipo": "studio"
+            },
+            "id": 429
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4553265,
+                    -12.9908842
+                ]
+            },
+            "properties": {
+                "nome": "GFTeam Jiu Jitsu",
+                "tipo": "dojo"
+            },
+            "id": 430
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4646825,
+                    -12.995332
+                ]
+            },
+            "properties": {
+                "nome": "Melt Burger",
+                "tipo": "fast_food"
+            },
+            "id": 431
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4546501,
+                    -12.9970166
+                ]
+            },
+            "properties": {
+                "nome": "Acarajé da Meire",
+                "tipo": "fast_food"
+            },
+            "id": 432
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.451677,
+                    -12.9976087
+                ]
+            },
+            "properties": {
+                "nome": "Taióba",
+                "tipo": "restaurant"
+            },
+            "id": 433
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4592944,
+                    -12.990284
+                ]
+            },
+            "properties": {
+                "nome": "Rio Concept",
+                "tipo": "clinic"
+            },
+            "id": 434
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.455867,
+                    -13.0053938
+                ]
+            },
+            "properties": {
+                "nome": "Bar do Nei / Point do Bode",
+                "tipo": "pub"
+            },
+            "id": 435
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4671791,
+                    -12.9880183
+                ]
+            },
+            "properties": {
+                "nome": "Av Paulo VI",
+                "tipo": "bicycle_rental"
+            },
+            "id": 436
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4637448,
+                    -12.9979574
+                ]
+            },
+            "properties": {
+                "nome": "Alergo Atendimentos Clínicos",
+                "tipo": "clinic"
+            },
+            "id": 437
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4651972,
+                    -12.9972671
+                ]
+            },
+            "properties": {
+                "nome": "Alergo Dermo Clin",
+                "tipo": "clinic"
+            },
+            "id": 438
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4634819,
+                    -12.9979667
+                ]
+            },
+            "properties": {
+                "nome": "Gran Café",
+                "tipo": "cafe"
+            },
+            "id": 439
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4636615,
+                    -12.9980212
+                ]
+            },
+            "properties": {
+                "nome": "Otni Café",
+                "tipo": "cafe"
+            },
+            "id": 440
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4636064,
+                    -12.997874
+                ]
+            },
+            "properties": {
+                "nome": "Farma Vida",
+                "tipo": "pharmacy"
+            },
+            "id": 441
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4634077,
+                    -12.9980717
+                ]
+            },
+            "properties": {
+                "nome": "Planner",
+                "tipo": "doctors"
+            },
+            "id": 442
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4675328,
+                    -12.9955991
+                ]
+            },
+            "properties": {
+                "nome": "Qualimagem",
+                "tipo": "doctors"
+            },
+            "id": 443
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.4671857,
+                    -12.9956069
+                ]
+            },
+            "properties": {
+                "nome": "Nutricare",
+                "tipo": "clinic"
+            },
+            "id": 444
+        }
+    ]
+}
