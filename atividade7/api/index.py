@@ -20,7 +20,10 @@ def conectar_e_preparar_planilha():
     
     client = gspread.authorize(creds)
     sheet = client.open("Banco de dados - atividade7").sheet1
-
+    print("\n" + "="*50)
+    print("O LINK DA SUA PLANILHA É:")
+    print(sheet.url)
+    print("="*50 + "\n")
     
     if not sheet.cell(1, 1).value:
         cabecalhos = ["author", "message", "date"]
